@@ -1,2 +1,4 @@
-# Glitch_ChaiJS
-Qulity Assurance &amp; Testing with Chai
+FCC Test Challengs Prototype 
+============================
+
+QA with mocha & chai
